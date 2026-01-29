@@ -167,7 +167,7 @@ jobs:
 ```
 </details> 
 
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
+  <img src="https://image2url.com/r2/default/images/1769666217438-8ab72589-abe3-4e12-ab95-a92a9fc0e44d.jpg" width="100%" />
 </p>
 
 
@@ -178,7 +178,7 @@ jobs:
 
 ---
 
-🚀 What is Arslan-MD?
+🚀 What is Black-papa?
 
 Black-Papa is a fully advanced, aggressive, and ultra customizable WhatsApp bot powered by Baileys MD. Designed for both personal use and public deployment, this bot includes more than 100+ commands, including:
 
