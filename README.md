@@ -1,9 +1,9 @@
-# 〘 ARSLAN-MD 〙  
+# 〘 BLACK-PAPA 〙  
 > ✨ *Ultra Pro Max WhatsApp Bot* ✨  
 
-🤖 ***Arslan-MD*** - MULTIPLE POWERFUL WHATSAPP BOT
+🤖 ***Black-Papa*** - MULTIPLE POWERFUL WHATSAPP BOT
 
-> ⚔️ Developed by ArslanMD Official | 300+ Features | Super Aggressive Bot
+> ⚔️ Developed by Black-PAPA Official | 300+ Features | Super Aggressive Bot
 </div>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 </div>
 
-# Arslan-MD Setup
+# Black-PAPA Setup
 
 ### 🚀 Fork the Repository
 
@@ -123,7 +123,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 <details>
 
-<b><strong><summary align="center" style="color: Yello;">Deploy Arslan-MD On Workflow</summary></strong></b>
+<b><strong><summary align="center" style="color: Yello;">Deploy Black-Papa On Workflow</summary></strong></b>
 <p style="text-align: center; font-size: 1.2em;">
  
 <h8>Copy the workflow codes and then fork the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes rename main.yml to deploy.yml and save the file</h8>
@@ -180,7 +180,7 @@ jobs:
 
 🚀 What is Arslan-MD?
 
-Arslan-MD is a fully advanced, aggressive, and ultra customizable WhatsApp bot powered by Baileys MD. Designed for both personal use and public deployment, this bot includes more than 100+ commands, including:
+Black-Papa is a fully advanced, aggressive, and ultra customizable WhatsApp bot powered by Baileys MD. Designed for both personal use and public deployment, this bot includes more than 100+ commands, including:
 
 ✅ AI Chatbots (GPT-4, Gemini, Meta, Copilot)
 
@@ -219,7 +219,7 @@ Platform	Status
 
 ## ⚠️ Disclaimer
 
-- ❗ Arslan-MD is **not affiliated with WhatsApp Inc.**
+- ❗ Black-PAPA is **not affiliated with WhatsApp Inc.**
 - 🚫 Misuse can lead to bans. Use at your own risk.
 - 🛑 Cloning or modifying without proper credit is prohibited.
 
@@ -227,9 +227,9 @@ Platform	Status
 
 ## 💡 Credits & Contributors
 
-> Made with ❤️ by Arslan-MD 
+> Made with ❤️ by Black-PAPA 
 
-- 👤 [ArslanMD Official](https://github.com/Arslan-MD) – Creator & Maintainer  
+- 👤 [) – Creator & Maintainer  
   - Optimized scripts, plugin management, core features
 
 ---
@@ -253,8 +253,8 @@ Platform	Status
 - 📢 **WhatsApp Channel**  
   [![Join WhatsApp](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306)
 
-- ▶️ **YouTube: ArslanMD Official**  
-  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arslanmdofficial)
+- ▶️ **YouTube: BLACK PAPA Official**  
+  [![Subscribe YouTube]()
 
 
 
